@@ -1,0 +1,9 @@
+# Store information about the user, like name, email, password and relevant information
+{
+  _id: ObjectId,
+  name: String,
+  email: String,
+  password: String,
+  ...
+}
+

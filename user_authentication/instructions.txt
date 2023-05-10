@@ -1,0 +1,3 @@
+# Install Passport.js. To install Passport.js, the following command in the Node.js porject directory shoulld run
+npm install passport passport-local
+

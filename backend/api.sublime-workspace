@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"from_",
+				"from_email"
+			],
+			[
+				"co",
+				"course_titles"
+			],
+			[
+				"class",
+				"class_element2"
+			],
+			[
+				"clas",
+				"class_step1"
+			],
+			[
+				"cat",
+				"category_dropdown"
+			],
+			[
+				"cla",
+				"class_course_list_element"
+			],
+			[
+				"We",
+				"WebDriverWait"
+			],
+			[
+				"sele",
+				"selectByValue"
+			],
+			[
+				"select",
+				"selectByValue"
+			],
+			[
+				"expe",
+				"expectedTitle"
+			],
+			[
+				"Base",
+				"BasePage"
+			],
+			[
+				"string",
+				"stringToOrdinal"
+			],
+			[
+				"my",
+				"mysql_user"
+			],
+			[
+				"GPIO",
+				"GPIO_0_LEVEL_REG"
+			],
+			[
+				"sel",
+				"selectE1"
+			],
+			[
+				"for",
+				"formE1"
+			],
+			[
+				"handle",
+				"handleSaveButtonClickEvent"
+			],
+			[
+				"book",
+				"bookString"
+			],
+			[
+				"fie",
+				"file_path"
+			],
+			[
+				"re",
+				"relative_time_search"
+			],
+			[
+				"rel",
+				"relative_time"
+			],
+			[
+				"date",
+				"date_entry"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"ModelClass",
+				"ModelClass1"
+			],
+			[
+				"Model",
+				"ModelClass1"
+			],
+			[
+				"O",
+				"Object"
+			],
+			[
+				"asyc",
+				"asyncio"
+			],
+			[
+				"socet",
+				"socketpair"
+			],
+			[
+				"read_",
+				"read_write"
+			],
+			[
+				"read",
+				"read_write"
+			],
+			[
+				"Re",
+				"Register_Ty"
+			],
+			[
+				"REgi",
+				"Register_Ty"
+			],
+			[
+				"Regist",
+				"Register"
+			],
+			[
+				"Regis",
+				"Register"
+			],
+			[
+				"dei",
+				"device_address"
+			],
+			[
+				"as",
+				"asyncio"
+			],
+			[
+				"asy",
+				"asyncio"
+			],
+			[
+				"asyn",
+				"asyncio"
+			],
+			[
+				"ur",
+				"urllib"
+			],
+			[
+				"devi",
+				"device_address"
+			],
+			[
+				"dev",
+				"device_address"
+			],
+			[
+				"enable",
+				"enable_device"
+			],
+			[
+				"set",
+				"set_as_output"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/john/Desktop/rental_apartments_application/backend/instructions.txt",
+		"/home/john/Desktop/rental_apartments_application/backend/api_filter.pl",
+		"/home/john/Desktop/rental_apartments_application/backend/api_filter.json",
+		"/home/john/Desktop/rental_apartments_application/backend/api.pl",
+		"/home/john/Desktop/rental_apartments_application/backend/api.json",
+		"/home/john/Desktop/rental_apartments_application/frontend/script.js",
+		"/home/john/Desktop/rental_apartments_application/backend/api_filer.pl",
+		"/home/john/Desktop/rental_apartments_application/backend/api_filer.json",
+		"/home/john/Desktop/rental_apartments_application/backend/api_filtet.json",
+		"/home/john/Desktop/rental_apartments_application/backend/api_filer.js",
+		"/home/john/Desktop/DevOps_udemy/azure_infrastructure/devopsansible/myinventory",
+		"/home/john/Desktop/DevOps_udemy/azure_infrastructure/variables.tf",
+		"/home/john/Desktop/DevOps_udemy/azure_infrastructure/public_ip_address.tf",
+		"/home/john/Desktop/DevOps_udemy/azure_infrastructure/network_interface.tf",
+		"/home/john/Desktop/DevOps_udemy/azure_infrastructure/main.tf",
+		"/home/john/Desktop/search_relative_time.py",
+		"/home/john/Desktop/javascript_minimal/factory_based_class.js",
+		"/home/john/Desktop/javascript_minimal/minimal_web_app/index.html",
+		"/home/john/Desktop/embedded_c_programming/embedded_oreilly/ledInit.c",
+		"/home/john/Desktop/embedded_c_programming/embedded_oreilly/ledToggle.c",
+		"/home/john/Desktop/embedded_c_programming/embedded_oreilly/delay_ms.c",
+		"/home/john/Desktop/DevOps_udemy/azure_infrastructure/devopsansible/inventory",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/twitter_bot/twitter/src/hellobot.go",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/twitter_bot/twitter/src/server.go",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/twitter_bot/twitter/src/go.env",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/Angular/script.ts",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/DevOps_udemy/azure_infrastructure/provisioners.js",
+		"/home/john/Desktop/javascript_minimal/minimal_web_app/v/deleteBook.js",
+		"/home/john/Desktop/javascript_minimal/minimal_web_app/Book.js",
+		"/home/john/Desktop/javascript_minimal/minimal_web_app/src/Book.js",
+		"/home/john/Desktop/javascript_minimal/minimal_web_app/c/initialize.js",
+		"/home/john/Desktop/api_data_pull.py",
+		"/home/john/Desktop/javascript_minimal/minimal_web_app/v/updateBook.js",
+		"/home/john/Desktop/java_unittest/CalculatorTest.java",
+		"/home/john/Desktop/java_unittest/Calculator.java",
+		"/home/john/Desktop/python_automation/square.py",
+		"/home/john/Desktop/python_automation/test/tests.py",
+		"/home/john/Desktop/python_automation/test/test.py",
+		"/home/john/Desktop/python_automation/test/testsum.py",
+		"/home/john/Desktop/python_automation/test/test_file1.py",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/api_aggregate.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/app.js",
+		"/home/john/Desktop/twitter_bot/twitter/src/hellobot.go",
+		"/home/john/Desktop/javascript_minimal/minimal_web_app/v/createBook.js",
+		"/home/john/Desktop/coding_game_embedded_c/c_programms.c",
+		"/home/john/Desktop/java_unittest/square_list.java",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/index.html",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/modules/file_module.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/modules/microservices.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/modules/seneca/index.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/modules/seneca/email.js",
+		"/home/john/Desktop/test_assessment/script1.py",
+		"/home/john/Desktop/Selenium_Python/custom_wait.py",
+		"/home/john/Desktop/Selenium_Python/implicit_wait.py",
+		"/home/john/Desktop/QA.txt",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/pm2/pm2.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/helloresponse.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/core_modules",
+		"/home/john/Desktop/DevOps_udemy/azure_infrastructure/devopsansible/azure_linux.json",
+		"/home/john/Desktop/javascript_minimal/minimal_web_app/createBook.html",
+		"/home/john/Desktop/DevOps_udemy/azure_infrastructure/devopsansible/roles/nginx/tasks/main.yml",
+		"/home/john/restfulapi/rest_api.sh",
+		"/home/john/Desktop/rental_apartments_application/user_authentication/authentication_check.js",
+		"/home/john/Desktop/react_basics/function.jsx",
+		"/home/john/Desktop/rental_apartments_application/frontend/style.css",
+		"/home/john/Desktop/rental_apartments_application/user_authentication/passport.js",
+		"/home/john/Desktop/automation_test_script_python/automate_python/test_app.py",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/pm2/sms.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/easy_seneca.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/email_package.json",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/gmail_server.js",
+		"/home/john/Desktop/automation_test_script_python/find_broken_links,py",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/senecaEmailer.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/order_manager_plugin.js",
+		"/home/john/Desktop/rental_apartments_application/user_authentication/app.js",
+		"/home/john/Desktop/rental_apartments_application/user_authentication/auth.js",
+		"/home/john/Desktop/rental_apartments_application/user_authentication/user.js",
+		"/home/john/Desktop/rental_apartments_application/user_authentication/instructions.txt",
+		"/home/john/Desktop/rental_apartments_application/integration_api/Readme.md",
+		"/home/john/Desktop/rental_apartments_application/database/insert_data.php",
+		"/home/john/Desktop/rental_apartments_application/database/favorites_collection.yaml",
+		"/home/john/Desktop/rental_apartments_application/database/listing_collection.yaml",
+		"/home/john/Desktop/rental_apartments_application/database/user_collection.yaml",
+		"/home/john/Desktop/rental_apartments_application/database/create_collection.mongo",
+		"/home/john/Desktop/rental_apartments_application/database/create_db.pl",
+		"/home/john/Desktop/rental_apartments_application/integration_api/api_response.json",
+		"/home/john/Desktop/rental_apartments_application/integration_api/api_call.sh",
+		"/home/john/Desktop/rental_apartments_application/integration_api/api_key.pl",
+		"/home/john/Desktop/rental_apartments_application/backend/index.js",
+		"/home/john/Desktop/rental_apartments_application/frontend/search_list.html",
+		"/home/john/Desktop/rental_apartments_application/user_interface.html",
+		"/home/john/Desktop/rental_apartments_application/readme.MD",
+		"/home/john/Desktop/angular_examples/service.ts",
+		"/home/john/Desktop/angular_examples/template.html",
+		"/home/john/Desktop/javascript_examples/variable.js",
+		"/home/john/Desktop/angular_examples/component.ts",
+		"/home/john/Desktop/javascript_examples/function.js",
+		"/home/john/Desktop/javascript_examples/object.js",
+		"/home/john/Desktop/javascript_examples/array.js",
+		"/home/john/Desktop/react_basics/parent_child.jsx",
+		"/home/john/Desktop/react_basics/class.jsx",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/promises_jquery.html",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/email_content.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/api_plugin.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/seneca_action.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/microservice_skeleton.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/frontend_seneca.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/my_first_microservice/email_microservice.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/Readme.md",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/Angular/index.html",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/calculation.js",
+		"/home/john/Desktop/Abstract_base_class.py",
+		"/home/john/Desktop/Abstract_base_class",
+		"/home/john/Desktop/Selenium_Python/actions_chains.py",
+		"/home/john/Desktop/Selenium_Python/locators.py",
+		"/home/john/Desktop/Selenium_Python/element.py",
+		"/home/john/Desktop/Selenium_Python/page_objet.py",
+		"/home/john/Desktop/Selenium_Python/test_case.py",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/DevOps_udemy/azure_infrastructure/devopsansible/azure_linux.json",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/DevOps_udemy/azure_infrastructure/devopsansible/compute.tf",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/pattern_matching.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/reuse_pattern.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/expensive_operation.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/seneca_web.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/employee_plugin/employee_plugin.js",
+		"/home/john/Desktop/Dev_Ops_FrontEnd_qualifications/building_microservices/nodejs_web_server/employee_plugin/employee_management.js",
+		"/home/john/Desktop/Selenium_Python/python_org_search.py",
+		"/home/john/Desktop/Selenium_Python/tes_python_org.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "api.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,19 @@
+// The API could return a JSON response that includes an array of apartment listings that
+// match the search criteria
+
+[
+  {
+    "id": 1,
+    "title": "Spacious Apartment in the centre of Thessaloniki",
+    "description": "This beautiful apartment features a large living room, two bedrooms, and one bathrooms. It's located in the heart of Thessaloniki and has easy access to public transportation and many great restaurants and shops nearby.",
+    "price": 1000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 300,
+    "pets_allowed": true,
+    "parking": "Garage",
+    "amenities": ["Swimming pool", "Oven", "24-hour security"],
+    "image_url": "https://example.com/images/apartment1.jpg"
+  },
+  // more apartment listings...
+]

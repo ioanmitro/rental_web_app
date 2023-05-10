@@ -1,0 +1,115 @@
+/* Search Form Styling */
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+input[type="text"],
+select {
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 200px;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+/* Apartment Listing Display Styling */
+
+.apartment-listing {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.apartment-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+
+.apartment-details {
+  flex-grow: 1;
+}
+
+.apartment-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.apartment-price {
+  font-size: 18px;
+  font-weight: bold;
+  color: #4CAF50;
+  margin-bottom: 10px;
+}
+
+.apartment-description {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.apartment-features {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.apartment-features li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.apartment-features li:before {
+  content: "\2022";
+  margin-right: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+  .apartment-listing {
+    flex-direction: column;
+  }
+  
+  .apartment-image {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  
+  .apartment-details {
+    width: 100%;
+  }
+}
+
+/* This CSS provides styling for a search form with labels and input fields for text and select elements,
+   and a button to submit the search. For the apartment listing display, it provides a layout with an image, title, price,
+  description, and a list of features. It also includes responsive design for smaller screens using media queries. */

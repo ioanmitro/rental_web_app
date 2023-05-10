@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Apartments Nearby App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Apartments Nearby App</h1>
+    <form>
+      <label for="location">Location:</label>
+      <input type="text" id="location" name="location">
+      <button type="submit">Search</button>
+    </form>
+  </header>
+  <main>
+    <section class="filters">
+      <h2>Filters</h2>
+      <label for="bedrooms">Bedrooms:</label>
+      <select id="bedrooms" name="bedrooms">
+        <option value="">Any</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+      </select>
+      <label for="bathrooms">Bathrooms:</label>
+      <select id="bathrooms" name="bathrooms">
+        <option value="">Any</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+      </select>
+      <label for="pets">Pets allowed:</label>
+      <input type="checkbox" id="pets" name="pets">
+      <label for="amenities">Amenities:</label>
+      <input type="checkbox" id="pool" name="pool">
+      <label for="pool">Pool</label>
+      <input type="checkbox" id="gym" name="gym">
+      <label for="oven">Oven</label>
+      <input type="checkbox" id="parking" name="parking">
+      <label for="parking">Parking</label>
+      <input type="checkbox" id="laundry" name="laundry">
+      <label for="laundry">Laundry</label>
+      <input type="checkbox" id="airconditioning" name="airconditioning">
+      <label for="airconditioning">Air conditioning</label>
+      <label for="price">Price:</label>
+      <input type="range" id="price" name="price" min="0" max="1000" value="1000">
+      <output for="price">1000</output>
+    </section>
+    <section class="listings">
+      <h2>Listings</h2>
+      <ul>
+        <li>
+          <h3>Apartment 1</h3>
+          <p>Address: Voulagari 25</p>
+          <p>Bedrooms: 2</p>
+          <p>Bathrooms: 1</p>
+          <p>Pets allowed: Yes</p>
+          <p>Amenities: Oven, Parking, Laundry</p>
+          <p>Price: $1000/month</p>
+          <button type="button">Save</button>
+          <button type="button">Share</button>
+        </li>
+        <li>
+          <h3>Apartment 2</h3>
+          <p>Address: Tsimiski 150</p>
+          <p>Bedrooms: 1</p>
+          <p>Bathrooms: 1</p>
+          <p>Pets allowed: No</p>
+          <p>Amenities: Air conditioning</p>
+         

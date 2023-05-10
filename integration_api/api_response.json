@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Sunny 1BR Apartment in SoMa",
+    "description": "This bright and sunny apartment features a spacious living room, a comfortable bedroom, and a modern kitchen with stainless steel appliances. It's located in the trendy SoMa neighborhood and is just a short walk from many great restaurants, cafes, and shops.",
+    "price": 2500,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 800,
+    "pets_allowed": true,
+    "parking": "Street",
+    "amenities": ["In-unit laundry", "Hardwood floors", "Balcony"],
+    "image_url": "https://example.com/images/apartment1.jpg"
+  },
+  // more apartment listings...
+]
