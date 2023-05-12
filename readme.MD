@@ -1,8 +1,8 @@
-1. The user inputs location or lets the application access their location.
-2. The application randomly selects an apartment listing within the user's desired distance radius.
-3. The application displays the apartment's name, address, unit type, amenities, lease terms, price range, ratings, and reviews from different websites like Yelp, Google, or Apartments.com.
-4. The user can filter the apartment listings by unit type, price range, rating, or distance.
-5. The user can save their favorite apartment listings for future reference and share them on social media.
+- The user inputs location to access their location.
+- The application randomly selects an apartment listing within the user's desired distance radius.
+- The application displays the apartment's name, address, unit type, amenities, lease terms, price range, ratings, and reviews from different websites like Yelp, Google, or Apartments.com.
+- The user can filter the apartment listings by unit type, price range, rating, or distance.
+- The user can save their favorite apartment listings for future reference and share them on social media.
 
 To implement this application, a combination of different technologies and APIs were used as follows:
 
