@@ -1,4 +1,7 @@
-/* Search Form Styling */
+/* Search Form Styling
+/* This CSS provides styling for a search form with labels and input fields for text and select elements,
+   and a button to submit the search. For the apartment listing display, it provides a layout with an image, title, price,
+  description, and a list of features. It also includes responsive design for smaller screens using media queries. */
 
 form {
   display: flex;
@@ -109,7 +112,3 @@ input[type="submit"]:hover {
     width: 100%;
   }
 }
-
-/* This CSS provides styling for a search form with labels and input fields for text and select elements,
-   and a button to submit the search. For the apartment listing display, it provides a layout with an image, title, price,
-  description, and a list of features. It also includes responsive design for smaller screens using media queries. */
