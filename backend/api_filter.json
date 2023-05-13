@@ -13,7 +13,7 @@
     "pets_allowed": true,
     "parking": "Garage",
     "amenities": ["Swimming pool", "Oven", "24-hour security"],
-    "image_url": "https://example.com/images/apartment1.jpg"
+    "image_url": "https://images.rentals.ca/property-pictures/medium/toronto-on/306325/apartment-14920010.jpg"
   },
   // more apartment listings...
 ]

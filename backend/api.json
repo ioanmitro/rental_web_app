@@ -15,7 +15,7 @@ along with details such as the title, description, price, number of bedrooms and
     "pets_allowed": true,
     "parking": "Garage",
     "amenities": ["Swimming pool", "Oven", "24-hour security"],
-    "image_url": "https://example.com/images/apartment1.jpg"
+    "image_url": "https://images.rentals.ca/property-pictures/medium/toronto-on/306325/apartment-14920010.jpg"
   },
   {
     "id": 2,
@@ -28,7 +28,7 @@ along with details such as the title, description, price, number of bedrooms and
     "pets_allowed": false,
     "parking": "Valet",
     "amenities": ["Smart Oven", "Swimming pool", "Rooftop terrace", "Concierge"],
-    "image_url": "https://example.com/images/apartment2.jpg"
+    "image_url": "https://images.rentals.ca/property-pictures/medium/toronto-on/306325/apartment-14920010.jpg"
   },
   // more apartment listings...
 ]
