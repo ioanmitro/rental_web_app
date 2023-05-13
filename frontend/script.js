@@ -1,4 +1,6 @@
 // Define apartment listings data
+//  ADD A LIST OF APARTMENTS WITH SPECIAL FEATURES AND seach in the result list/ view the results
+
 const apartmentListings = [
   {
     id: 1,
@@ -6,23 +8,25 @@ const apartmentListings = [
     description: "This beautiful apartment features a large living room, two bedrooms, and one bathrooms. It's located in the heart of Thessaloniki and has easy access to public transportation and many great restaurants and shops nearby.",
     price: 1000,
     location: "Center",
-    features: ["2 bedrooms", "1 bathroom", "fully furnished"]
+    features: ["2 bedrooms", "1 bathroom", "fully furnished"],
+    image_url: "https://images.rentals.ca/property-pictures/medium/toronto-on/306325/apartment-14920010.jpg"
   },
   {
     id: 2,
     title: "Luxury Apartment in the centre of Thessaloniki",
     description: "This stunning apartment features a spacious open floor plan, high-end finishes, and breathtaking views of the Thessaloniki. It's located in a luxury high-rise building in the heart of Midtown and offers a wealth of amenities, including a fitness center, swimming pool, and rooftop terrace.",
     price: 500,
-    location: "Centers",
-    features: ["2 bedroom", "1 bathroom", "furnished", "swimming pool"]
+    location: "Center",
+    features: ["2 bedroom", "1 bathroom", "furnished", "swimming pool"],
+    image_url: "https://images.rentals.ca/property-pictures/medium/toronto-on/306325/apartment-14920010.jpg"
   },
 ];
 
-// Get search form elements
+// Get search from elements
 const searchForm = document.getElementById("search-form");
-const locationInput = document.getElementById("location-input");
-const priceInput = document.getElementById("price-input");
-const resultsContainer = document.getElementById("results-container");
+const locationInput = document.getElementById("location");
+const priceInput = document.getElementById("price-range");
+const resultsContainer = document.getElementById("apartment-listings");
 
 // Handle search form submission
 searchForm.addEventListener("submit", function(event) {
@@ -48,7 +52,7 @@ searchForm.addEventListener("submit", function(event) {
       const listingElement = document.createElement("div");
       listingElement.classList.add("apartment-listing");
       listingElement.innerHTML = `
-        <img src="images/${listing.id}.jpg" alt="${listing.title}" class="apartment-image">
+        <img src="${listing.image_url}" alt="${listing.title}" class="apartment-image">
         <div class="apartment-details">
           <h2 class="apartment-title">${listing.title}</h2>
           <p class="apartment-price">$${listing.price}/month</p>
