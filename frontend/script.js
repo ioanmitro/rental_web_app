@@ -1,6 +1,12 @@
 // Define apartment listings data
 //  ADD A LIST OF APARTMENTS WITH SPECIAL FEATURES AND seach in the result list/ view the results
 
+/*
+This JavaScript code first defines an array of apartment listings data, then gets the search form elements using document.getElementById(). It then adds an event listener to the search form to handle form submissions.
+When the user submits the search form, the event listener function gets the user input values from the location and price input fields. It then filters the apartment listings data based on the user input using
+the Array.filter() method. The filtered apartment listings are then displayed in the resultsContainer element using document.createElement() and Element.appendChild(). If there are no results, a "No results
+*/
+
 const apartmentListings = [
   {
     id: 1,
@@ -72,8 +78,15 @@ searchForm.addEventListener("submit", function(event) {
 });
 
 
-/*
-This JavaScript code first defines an array of apartment listings data, then gets the search form elements using document.getElementById(). It then adds an event listener to the search form to handle form submissions.
-When the user submits the search form, the event listener function gets the user input values from the location and price input fields. It then filters the apartment listings data based on the user input using
-the Array.filter() method. The filtered apartment listings are then displayed in the resultsContainer element using document.createElement() and Element.appendChild(). If there are no results, a "No results
-*/
+function fetchData() {
+  fetch('http://localhost:3000')
+  .then(repsonse => response.json())
+  .then(data => {
+    output.innerHTML += "id = " + apartmentListings.id + "<br/>";
+    output.innerHTML += "title = " + apartmentListings.title + "<br/>";
+        output.innerHTML += "description = " + apartmentListings.description + "<br/>";
+        output.innerHTML += "price = " + apartmentListings.price + "<br/>";
+        output.innerHTML += "location = " + apartmentListings.location + "<br/>";
+        output.innerHTML += "features = " + apartmentListings.features + "<br/>"; 
+    })
+}
